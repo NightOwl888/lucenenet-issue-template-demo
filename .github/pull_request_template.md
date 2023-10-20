@@ -1,5 +1,3 @@
-# {PR title}
-
 <!-- Thank you for submitting a pull request to our repo. -->
 
 <!-- Please do NOT submit PRs for features in newer versions of Lucene. We should keep the target version consistent across our repository to make the upgrade process to newer versions of Lucene go smoothly. -->
