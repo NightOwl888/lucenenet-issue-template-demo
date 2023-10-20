@@ -1,4 +1,4 @@
-name: Task
+name: ⭐ Task
 description: File a general task
 labels: ["is:task"]
 body:
