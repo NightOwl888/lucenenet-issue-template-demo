@@ -2,7 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Ask a How-To Question
     url:  https://stackoverflow.com/questions/tagged/lucene.net
-    about: This issue tracker is for tracking the tasks to complete the port and improve the software. Please ask usability questions on StackOverflow. Always include BOTH the lucene.net tag and the lucene tag. Alternatively, join the Lucene.NET user mailing list by sending an email to user-subscribe@apache.org. Once signed up, you can submit your question to user@apache.org.
+    about: This issue tracker is for tracking the tasks to complete the port and improve the software. Please ask usability questions on StackOverflow. Consider including BOTH the lucene.net tag and the lucene tag. Alternatively, join the Lucene.NET user mailing list by sending an email to user-subscribe@apache.org. Once signed up, you can submit your question to user@apache.org.
   - name: Join a Mailing List
     url:  https://lucenenet.apache.org/contributing/mailing-lists.html
     about: Join a Lucene.NET mailing list to ask user questions, discuss the design or other aspects of Lucene.NET with our team, or to track commits and builds. 
