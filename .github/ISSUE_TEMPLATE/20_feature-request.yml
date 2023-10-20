@@ -4,7 +4,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Since Lucene.NET is mostly a line-by-line port from Lucene, feature requests should generally be limited to improvements that make Lucene.NET interoperate with .NET better. Please do not request features from newer versions of Lucene. We will upgrade the entire project to get these features all at once when the API is stable. We have very little hope of finding bugs if we don't have a version of Lucene to run to compare it with and reviewing these requests are a drain on our limited resources.
+      Since Lucene.NET is mostly a line-by-line port from Lucene, feature requests should generally be limited to improvements that make Lucene.NET interoperate with .NET better. Please do not request features from newer versions of Lucene. We will upgrade the entire project to get these features all at once when the API is stable. We have very little hope of finding bugs if we don't have a version of Lucene to run to compare code execution with and reviewing these types of requests are a drain on our limited resources.
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
