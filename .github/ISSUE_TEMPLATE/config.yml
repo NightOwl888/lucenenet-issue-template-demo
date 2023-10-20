@@ -9,6 +9,9 @@ contact_links:
   - name: Join a Mailing List
     url:  https://lucenenet.apache.org/contributing/mailing-lists.html
     about: Join a Lucene.NET mailing list to ask user questions, discuss the development or other aspects of Lucene.NET with our team, or to track commits and builds. 
+  - name: Issue with J2N
+    url:  https://github.com/NightOwl888/J2N/issues/new/choose
+    about: Please open issues relating to J2N in NightOwl888/J2N.
   - name: Issue with ICU4N
     url:  https://github.com/ICU4N/ICU4N/issues/new/choose
     about: Please open issues relating to International Components for Unicode for .NET (ICU4N) in ICU4N/ICU4N.
