@@ -17,11 +17,9 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
-  - type: textarea
-    id: description
-    attributes:
-      label: Task description
-    validations:
-      required: true
-
-
+- type: textarea
+  id: description
+  attributes:
+    label: Task description
+  validations:
+    required: true
