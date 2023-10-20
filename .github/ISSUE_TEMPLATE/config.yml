@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Question About Usage
+    url:  https://stackoverflow.com/questions/tagged/lucene.net
+    about: This issue tracker is for tracking the tasks to complete the port and improve the software. Please ask usability questions on StackOverflow (including the `lucene.net` AND `lucene` tags) or join the [Lucene.NET user mailing list](https://lucenenet.apache.org/contributing/index.html#ask-a-question).
   - name: Issue with J2N
     url:  https://github.com/NightOwl888/J2N/issues/new/choose
     about: Please open issues relating to J2N in NightOwl888/J2N.
