@@ -1,6 +1,6 @@
 name: 🐞 Bug Report
 description: Create a report to help us improve
-labels: [is:bug]
+labels: ["is:bug"]
 body:
 - type: markdown
   attributes:
