@@ -68,8 +68,8 @@ body:
   attributes:
     label: Anything else?
     description: |
-      - x86, x64, or ARM
-      - The IDE (VS / VS Code/ VS4Mac) you're running on, and its version:
+      - The platform (x86 / x64 / ARM / ARM64):
+      - The IDE (VS / VS Code / VS4Mac) you're running on, and its version:
       - Include the output of `dotnet --info`:
 
       Links? References? Anything that will give us more context about the issue you are encountering!
