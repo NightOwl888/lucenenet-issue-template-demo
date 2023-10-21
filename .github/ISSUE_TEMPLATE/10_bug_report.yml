@@ -58,7 +58,7 @@ body:
   attributes:
     label: .NET Version 
     description: |
-      Run `dotnet --version` in .NET Core or provide the version of .NET Framework, Xamarin, Unity, UWP, or Mono you are using to run Lucene.NET.
+      Run `dotnet --version` in .NET Core or provide the version of .NET Framework, MAUI, Xamarin, Unity, UWP, or Mono you are using to run Lucene.NET.
 - type: input
   attributes:
     label: Operating System
